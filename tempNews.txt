@@ -1,0 +1,892 @@
+const dummy = [
+    {
+        "entities": {
+            "persons": [
+                {
+                    "name": "harish salve",
+                    "sentiment": "none"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "india",
+                    "sentiment": "none"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "amazon",
+                    "sentiment": "negative"
+                },
+                {
+                    "name": "harish salve",
+                    "sentiment": "negative"
+                },
+                {
+                    "name": "delhi high court amazon",
+                    "sentiment": "negative"
+                },
+                {
+                    "name": "group-reliance retail ventures",
+                    "sentiment": "negative"
+                },
+                {
+                    "name": "delhi court",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "future group",
+                    "sentiment": "none"
+                }
+            ]
+        },
+        "highlightThreadTitle": "",
+        "uuid": "f7e47db4abe3362c84f88bbf9399743c6a9d913c",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.moneycontrol.com",
+            "main_image": "https://images.moneycontrol.com/static-mcnews/2017/04/Delhi-High-Court-770x433.jpg",
+            "site_section": "https://www.moneycontrol.com/news/business/companies/",
+            "section_title": "Business News, Economic News, Market News, Share Market News, Indian Stock Market News ",
+            "url": "https://www.moneycontrol.com/news/business/amazon-not-entitled-to-object-cannot-control-frl-board-harish-salve-tells-delhi-high-court-6136131.html",
+            "country": "IN",
+            "domain_rank": 371,
+            "title": "Amazon not entitled to object, cannot control FRL board: Harish Salve tells Delhi High Court",
+            "performance_score": 0,
+            "site": "moneycontrol.com",
+            "site_categories": [
+                "investing",
+                "financial_news",
+                "finance"
+            ],
+            "participants_count": 1,
+            "title_full": "Amazon not entitled to object, cannot control FRL board: Harish Salve tells Delhi High Court",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:59:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "f7e47db4abe3362c84f88bbf9399743c6a9d913c"
+        },
+        "author": "",
+        "url": "https://www.moneycontrol.com/news/business/amazon-not-entitled-to-object-cannot-control-frl-board-harish-salve-tells-delhi-high-court-6136131.html",
+        "ord_in_thread": 0,
+        "title": "Amazon not entitled to object, cannot control FRL board: Harish Salve tells Delhi High Court",
+        "external_images": null,
+        "highlightText": "",
+        "language": "english",
+        "text": "Amazon is not entitled to object to the Future Group-Reliance Retail Ventures deal because “it doesn’t have skin in the game,” senior advocate Harish Salve told the Delhi Court on Thursday. The former solicitor general of India, who is representing Future Retail, argued that as per the Companies Act 2013, entities with less than 10 percent shareholding cannot object to the scheme of arrangement. In August this year, Future Group presented a scheme of arrangement which envisioned a slump sale of assets to Reliance for around Rs 25,000 crore. A “passive holding of less than 10 percent does not entitle one to object to such schemes. Amazon is misrepresenting to the world that FRL (Future Retail) has flouted a dishonest agreement. Amazon has no rights over FRL and cannot control its board. FRL was free to act,” he stated. Also Read: How Amazon tried to exercise rights of controlling shareholder in FRL without owning a stake Amazon doesn’t have a direct stake in Future Retail. It holds 49 percent in Future Coupons which in turn holds 9.8 percent in Future Retail. But it contends that the Indian group breached agreements and got an injunction from an emergency arbitrator in Singapore. Because it couldn’t invest directly in Future Retail, the American behemoth bought a stake in Future Coupon in the process securing some rights, giving itself effective veto power over Future Retail. Salve further argued that Amazons claim’s, if any, lie against the Biyanis and Future Coupons and through the current process is only Amazon looking to cause delays – which will hurt employees, public shareholders and stakeholders. “Emergency arbitrator award is a piece of paper, nothing more, but Amazon is acting like the East India Company of 21st Century – their idea is that you either do business with me or shut down,” he said, and accused Amazon of “trying to kill competition.” Also Read: Moneycontrol Analysis | Amazon-Future deal: Tail wagging the dog The Future Group employs 50,000 people and owes Rs 18,000 crore to financial institutions and Rs 7,500 crore to suppliers and vendors. Experts have said that Amazon’s delaying tactics could well push it into a painful bankruptcy. “This is an anti-competition move. Amazon is trying to show that it has the power to bring FRL to a grinding halt. Since competition law prevents companies from selling cheaply and running competition into the ground… once the competition is gone, you are free to act as per your whims,” Salve told the court. He further said that Amazon is looking to hinder Reliance as it fears competition. “In India, Reliance is a muscular company, it will give you a run for your money. What stops Reliance from launching its own digital marketplace? It will cause direct competition between Amazon and Reliance, Indian consumers will gain,” the eminent advocate said. He asked the court to step in and set the tone. “I'm inviting the court to hold that the basic assertion that Amazon has rights in FRL is wrong. Please declare that my board is free to act. If Amazon has been backstabbed by Biyanis, let it act against them,” he reiterated. He also noted that even though recommended, Emergency Arbitration has not yet been brought in Indian law. “It may be done tomorrow. The endeavour behind Arbitration Centres is to make it attractive for international arbitration. To say rules of Arbitration Centres should be read into Arbitration Law is too much,” he added. “I have not come here challenging the award. This is also not a proceeding to enforce the award. Amazon is saying that it (the arbitration award) concludes the issue. I'm not saying anything,” Salve stated. Disclaimer: “Reliance Industries Ltd. is the sole beneficiary of Independent Media Trust which controls Network18 Media &amp;amp; Investments Ltd.”",
+        "external_links": [],
+        "published": "2020-11-19T10:59:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:01:25.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    },
+    {
+        "entities": {
+            "persons": [],
+            "locations": [],
+            "organizations": []
+        },
+        "highlightThreadTitle": "",
+        "uuid": "e982fd710747a3432aa98958cca41f31b2dcfb9f",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.jagran.com",
+            "main_image": "https://www.jagranimages.com/images/newimg/19112020/19_11_2020-chhath_puja_2020_1_21077244_14153067.jpg",
+            "site_section": "http://rss.jagran.com/local/uttar-pradesh/lucknow-city.xml",
+            "section_title": "Jagran Hindi News - uttar-pradesh:lucknow-city",
+            "url": "https://www.jagran.com/uttar-pradesh/lucknow-city-21077244.html",
+            "country": "IN",
+            "domain_rank": 2254,
+            "title": "Chhath Puja 2020 Sunset Time: आज है छठ पूजा का खरना, जानें शुभ मुहूर्त व सूर्यास्त का समय...",
+            "performance_score": 0,
+            "site": "jagran.com",
+            "site_categories": [
+                "media"
+            ],
+            "participants_count": 0,
+            "title_full": "Chhath Puja 2020 Sunset Time: आज है छठ पूजा का खरना, जानें शुभ मुहूर्त व सूर्यास्त का समय...",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:58:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "859f6b8476e74a6bae2256d102f13f4b7012e4d0"
+        },
+        "author": "",
+        "url": "https://www.jagran.com/uttar-pradesh/lucknow-city-chhath-puja-2020-today-is-kharna-know-the-auspicious-time-till-sunset-21077244.html",
+        "ord_in_thread": 0,
+        "title": "Chhath Puja 2020 Sunset Time: आज है छठ पूजा का खरना, जानें शुभ मुहूर्त व सूर्यास्त का समय...",
+        "external_images": null,
+        "highlightText": "",
+        "language": "hindi",
+        "text": "affiliates Publish Date:Thu, 19 Nov 2020 02:28 PM (IST) Author: Umesh Tiwari\nChhath Puja 2020 Sunset Time मान्यता है कि शारीरिक और मानसिक शुद्धि की प्रक्रिया खरना होती है। इस दिन रात को भोजन के बाद कठिन व्रत अगले 36 घंटों तक रखते हैं। आइये जानते हैं उत्तर प्रदेश के विभिन्ना शहरों में गुरुवार शाम को सूर्यास्त कितने बजे होगा...\nलखनऊ, जेएनएन। छठ पूजा का मुख्य पड़ाव खरना पर्व के दूसरे दिन यानी नहाय-खाय के बाद आता है। गुरुवार 19 नवंबर को इस साल खरना मनाया जा रहा है। हिंदू मान्यता के अनुसार कार्तिक मास के शुक्ल पक्ष की पंचमी तिथि को छठ पूजा का खरना मनाया जाता है। लोहंडा के नाम से भी खरना को जानते हैं। सूर्योदय पर खरना या लोहंडा शुरू हो गया है और सूर्यास्त पर समाप्त होगा।\nखरना के पूरे दिन छठ पूजा का व्रत रखने वाले व्रती व्रत रखते हैं। फिर खीर प्रसाद के रूप में रात को खाते हैं। उसके बाद व्रत का पारण सूर्योदय को अर्घ्य देकर करते हैं और ध्यान रहे इस समय कुछ खाना और जल लेना नहीं होता है। मान्यता है कि एक प्रकार से शारीरिक और मानसिक शुद्धि की प्रक्रिया खरना होती है। इस दिन रात को भोजन के बाद कठिन व्रत अगले 36 घंटों तक रखते हैं। आइये जानते हैं उत्तर प्रदेश के विभिन्न शहरों में गुरुवार को सूर्यास्त कितने बजे होगा... लखनऊ : सूर्योदय 06:29 और सूर्यास्त: 17:14 वाराणसी : सूर्योदय 06:04 और सूर्यास्त 17:16 प्रयागराज : सूर्योदय 06:28 और सूर्यास्त 17:12 कानपुर : सूर्योदय 06:31 और सूर्यास्त 17:18 गोरखपुर : सूर्योदय 06:55 और सूर्यास्त 17:30\nछठ पूजा 2020 शुभ मुहूर्त यह भी पढ़ें नहाय-खाय: 18 नवंबर, दिन बुधवार को सूर्योदय 06 बजकर 30 मिनट और सूर्यास्त 05 बजकर 23 मिनट पर होगा खरना या लोहंडा 19 नवंबर, दिन गुरुवार को सूर्योदय 06 बजकर 29 मिनट और सूर्यास्त 05 बजकर 14 मिनट पर होगा संध्या सूर्य अर्घ्य 20 नवंबर, दिन शुक्रवार को सूर्योदय 06 बजकर 30 मिनट और सूर्यास्त 05 बजकर 14 मिनट पर होगा ऊषा सूर्य अर्घ्य 21 नवंबर, दिन शनिवार को सूर्योदय 06 बजकर 31 मिनट और सूर्यास्त 05 बजकर 14 मिनट पर होगा छठ पूजा पारण का समय 21 नवंबर, दिन शनिवार को ऊषा सूर्य अर्घ्य देने के बाद",
+        "external_links": [],
+        "published": "2020-11-19T10:58:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:03:06.003+02:00",
+        "highlightTitle": "",
+        "rating": null
+    },
+    {
+        "entities": {
+            "persons": [],
+            "locations": [
+                {
+                    "name": "samvat",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "us",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "india",
+                    "sentiment": "none"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "hcl tech",
+                    "sentiment": "positive"
+                },
+                {
+                    "name": "sun pharma",
+                    "sentiment": "positive"
+                },
+                {
+                    "name": "nomura",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "hdfc securities cadila healthcare",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "goldman sachs",
+                    "sentiment": "none"
+                }
+            ]
+        },
+        "highlightThreadTitle": "",
+        "uuid": "7e2bce34e18290478c02bcb59f6b1bc5b88e547b",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.moneycontrol.com",
+            "main_image": "https://pakkikhabar.in/wp-content/uploads/2021/07/Logo-Pakki-Khabar-Site.png",
+            "site_section": "https://www.moneycontrol.com/news/news-all.html",
+            "section_title": "Latest News, News Headlines &amp; Share/Stock Market News ",
+            "url": "https://www.moneycontrol.com/news/business/markets/hcl-tech-sun-pharma-among-10-largecap-names-that-can-give-8-30-returns-in-a-year-6124541.html",
+            "country": "IN",
+            "domain_rank": 371,
+            "title": "HCL Tech, Sun Pharma among 10 largecap names that can give 8-30% returns in a year",
+            "performance_score": 0,
+            "site": "moneycontrol.com",
+            "site_categories": [
+                "investing",
+                "financial_news",
+                "finance"
+            ],
+            "participants_count": 1,
+            "title_full": "HCL Tech, Sun Pharma among 10 largecap names that can give 8-30% returns in a year",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:57:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "7e2bce34e18290478c02bcb59f6b1bc5b88e547b"
+        },
+        "author": "",
+        "url": "https://www.moneycontrol.com/news/business/markets/hcl-tech-sun-pharma-among-10-largecap-names-that-can-give-8-30-returns-in-a-year-6124541.html",
+        "ord_in_thread": 0,
+        "title": "HCL Tech, Sun Pharma among 10 largecap names that can give 8-30% returns in a year",
+        "external_images": null,
+        "highlightText": "",
+        "language": "english",
+        "text": "The Indian market is teeming with positivity, thanks to improving macro, better Q2 earnings and encouraging reports on the vaccine front, and most market experts believe the positive momentum will continue in new Samvat 2077. Analysts and brokerage firms are bullish on market prospects as events such as the US election is over and positive reports on the vaccine front are giving hopes that soon COVID-19 will be under control. Improving macroeconomic indicators are also signalling bulls will have enough fodder for jumping higher. Global brokerage house Goldman Sachs has upgraded India to 'overweight' and raised Nifty's 2021-end target to 14,100. Goldman Sachs is of the view that the market has moved higher as investors gained confidence in improving economic momentum. Global brokerage firm Nomura is of the view that Nifty may hit the level of 13,640 by December 2021. Brokerages suggest the following 10 large-cap ideas that can give up to 30 percent in Samvat 2077. Take a look: Brokerage: HDFC Securities Cadila Healthcare | Buy | LTP: Rs 429.40 | Target price: Rs 508 | Upside: 18% As per the brokerage firm, the company's domestic and wellness businesses should grow in the high single digits and low-mid teens, respectively. The stabilisation in the price erosion in the US generics business coupled with a strong pipeline would drive growth in the US business. It has reduced net debt by Rs 2700 crore to Rs 4030 crore through fundraising of Rs 1000 crore (at the Zydus Wellness level) and a better working capital cycle in H1FY21. &quot;We estimate revenue CAGR of 8 percent over FY20-22E led by strong growth from wellness business, US market and domestic formulations. We project 150bps margin expansion led by gross margin expansion and operational efficiencies over FY20-22E,&quot; said the brokerage. Healthy revenues, better operating performance and lower interest expenses could drive 16 percent PAT CAGR over the same period. United Spirits | Buy | LTP: Rs 553.25 | Target price: Rs 645 | Upside: 17% United Spirits has been severely impacted by the pandemic due to government restrictions. United Spirits, being the market leader, is expected to recover faster than peers on the back of a recovery in trade business, increase in at-home consumption, festive season sales, resumption in duty-free sales and benign commodity inflation. &quot;We recommend a buy on the stock at the current market price and add on declines to Rs 510-491 for a target of Rs 645 valuing the company at 52 times FY22 EPS,&quot; said the company. Brokerage: Nirmal Bang’s Institutional Equities Research HCL Technologies | Buy | LTP: Rs 830.50 | Target price: Rs 1,053 | Upside: 27% The brokerage believes HCL Technologies will be an outsized beneficiary of the digital infrastructure build-out that has been catalyzed by the pandemic and which will likely be a 3-5 year opportunity. HCL Tech has the highest leverage to this opportunity among Indian players with what we estimate to be a 30 percent revenue exposure. HCL Tech will also benefit from a pick-up in Digital transformation spends on both services (Mode-2) and products (Mode-3). This will likely help the company deliver growth outperformance in an industry that will likely see growth acceleration of 300-400bps after delivering 6-8 percent organic growth over FY15-FY20. The brokerage values HCL Tech at a target P/E of 18.8 times September 2022E EPS, which is at a 25 percent discount to the target P/E multiple of TCS. Hindustan Unilever (HUL) | Buy | LTP: Rs 2,188 | Target price: Rs 2,555 | Upside: 17% The brokerage firm believes that HUL offers the best earnings growth visibility in the large-cap Indian consumer space, justifying premium valuation even though return ratios have dropped due to the impact of the merger. Sun Pharmaceutical Industries | Buy | LTP: Rs 514 | Target price: Rs 618 | Upside: 20% The brokerage believes the US business for Sun Pharma (excluding Taro Pharmaceuticals and Dusa Pharmaceuticals) should start growing as 92 ANDAs (abbreviated new drug applications) and 6 NDAs, which are pending approval, gradually start reflecting in incremental revenues. Price erosion in base business is unlikely to be painful as the same is now commoditised with a median competitive intensity of eight players across its marketed ANDA portfolio. In addition to complex ANDAs, Sun Pharma is also aggressively developing value-added generic drugs that are targeting the following segments: 1) Patients suffering from dysphagia. 2) Dosing convenience. 3) Improved health care administration. The domestic business should deliver a low double-digit growth and outpace the Indian pharmaceutical market driven by its large exposure to the chronic segment. the brokerage said. UltraTech Cement | Buy | LTP: Rs 4,890.25 | Target price: Rs 5,640 | Upside: 15% Over the last 2 years, UltraTech has acquired Binani Cement (renamed as UltraTech Nathdwara) as well as Century Textile’s Cement division. For Q2FY21, Century’s EBITDA/mt was in excess of Rs 700 and capacity utilization at 68 percent. Ultratech Nathdwara’s capacity utilisation stood at 60 percent and EBITDA/mt at more than Rs 1,500. &quot;We are building in 5 percent/7 percent/16 percent CAGR in revenue/EBITDA/PAT for the company over FY20- FY23E,&quot; said the brokerage. Analyst: Narendra Solanki, Head- Equity Research (Fundamental), Anand Rathi Shares &amp;amp; Stock Brokers Dr.Reddy's Laboratories | Buy | LTP: Rs 4,875.60 | Target price: Rs 6,012 | Upside: 23% Dr. Reddy’s offers an array of the portfolio of products and services, including APIs, custom pharmaceutical services, generics, biosimilars and differentiated formulations. As of now, 101 generic filings are pending for approval with the USFDA comprising 99 abbreviated new drug applications (ANDAs) and 2 NDAs. Also, the company expects 28 filings to have first to file status. In a major development, the company settled litigation with Celgene, relating to patents for REVLIMID Capsules. Celgene has agreed to provide Dr.Reddy’s with a license to sell volume-limited amounts in the US post-March 2022 and without volume limitation beginning on Jan 31, 2026, subject to regulatory approval. The latest settlement provides significant revenue opportunities to the company in the $7.6 billion REVLIMID market with few players. The company remains on track to launch over 25 new products including some niche and limited competition products in its North America Generics business in FY21. &quot;While the company should benefit from the gradual price stabilization in US business, we expect growth across markets driven by an increase in volume and continued new launches,&quot; said the analyst. Also, recent market developments signal the potential for the expansion of its API business. The analyst is optimistic given the company’s strong balance sheet and management's focus on building a healthy product pipeline, improving efficiency, controlling costs and streamlining operations. Hero MotoCorp | Buy | LTP: Rs 3,105 | Target price: Rs 3,653 | Upside: 18% The two-wheeler industry is witnessing high demand due to the lack of public transport availability &amp;amp; social distancing norms in place due to COVID-19. The company is currently operating at nearly 100 percent production capacity with almost all customer touchpoints open. With the peak festival season coming up in the months of October and November, the company’s management is positive about achieving high sales numbers with the help of positive consumer sentiments. &quot;With the improvement in demand and improving macro-economic data especially from rural areas, we believe the auto 2-wheeler industry is set to bounce back faster and Hero Moto being a market leader in its segment should also benefit in medium-term,&quot; said the analyst. Bharti Airtel | Buy | LTP: Rs 479.90 | Target price: Rs 625 | Upside: 30% The analyst believes Bharti Airtel is poised for decent ARPU growth for India Mobile business though there might be some short term impact on 4G subscriber additions. Revenue prospects look promising with improving performance in the Africa business. Further, with revenue market share gain and decent network capacity compared to peers, the company is well placed for long term growth in the telecom space. The company remains focused on expanding networks, extending coverage particularly in rural areas, along with continued investments in data centers, home broadband and other lines of business. The company is also refarming almost all of its spectrum, hence all 3G spectrum is moving to 4G. The management expects moderation of CAPEX in FY21 compared to FY20. Recently, the company inked a deal with a global investment firm, The Carlyle Group, under which the latter will invest US$235 million in Nxtra Data Limited, a wholly-owned subsidiary of Bharti Airtel engaged in the data center business. The company looks to benefit from this investment given Carlyle’s prior experience in data centre ownership through investments in Coresite in the US and Itconic in Spain. HDFC Life Insurance Company | Buy | LTP: Rs 635.55 | Target price: Rs 685 | Upside: 8% Life insurance has emerged as an important avenue for both protection as well as long-term savings products. The management stated that the company has been experiencing growth in renewal with normalization being witnessed in premium collection rates. The company reported a 34.8 percent year-over-year increase in gross premium to Rs 10,182.5 crore in Q2FY21, driven by strong growth in new business premium as well as renewal premium. As of September 30, 2020, the Assets Under Management (AUM) stood at Rs 150.6 crore, increasing 15 percent YoY. The company’s market share in terms of Individual Weighted received premium (WRP) grew by 235bps to 17.5 percent. Disclaimer: The views and investment tips expressed by investment experts on Moneycontrol.com are their own and not that of the website or its management. Moneycontrol.com advises users to check with certified experts before taking any investment decisions.",
+        "external_links": [],
+        "published": "2020-11-19T10:57:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:03:32.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    },
+    {
+        "entities": {
+            "persons": [
+                {
+                    "name": "vihan jain",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "jain",
+                    "sentiment": "none"
+                }
+            ],
+            "locations": [
+                {
+                    "name": "uk",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "oxford",
+                    "sentiment": "none"
+                }
+            ],
+            "organizations": [
+                {
+                    "name": "oxford university",
+                    "sentiment": "negative"
+                },
+                {
+                    "name": "university of oxford student union",
+                    "sentiment": "negative"
+                },
+                {
+                    "name": "student union",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "the oxford student",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "worcester college",
+                    "sentiment": "none"
+                },
+                {
+                    "name": "oxford",
+                    "sentiment": "none"
+                }
+            ]
+        },
+        "highlightThreadTitle": "",
+        "uuid": "4c724a22bcbc63b931dffce28b06446d7f4df57b",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.moneycontrol.com",
+            "main_image": "https://images.moneycontrol.com/static-mcnews/2020/10/oxford-university-770x433.jpg",
+            "site_section": "https://www.moneycontrol.com/news/news-all.html",
+            "section_title": "Latest News, News Headlines &amp; Share/Stock Market News ",
+            "url": "https://www.moneycontrol.com/news/world/indian-origin-student-leads-oxford-university-meat-free-campus-drive-6136561.html",
+            "country": "IN",
+            "domain_rank": 371,
+            "title": "Indian-origin student leads Oxford University meat-free campus drive",
+            "performance_score": 0,
+            "site": "moneycontrol.com",
+            "site_categories": [
+                "investing",
+                "financial_news",
+                "finance"
+            ],
+            "participants_count": 1,
+            "title_full": "Indian-origin student leads Oxford University meat-free campus drive",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:51:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "4c724a22bcbc63b931dffce28b06446d7f4df57b"
+        },
+        "author": "PTI",
+        "url": "https://www.moneycontrol.com/news/world/indian-origin-student-leads-oxford-university-meat-free-campus-drive-6136561.html",
+        "ord_in_thread": 0,
+        "title": "Indian-origin student leads Oxford University meat-free campus drive",
+        "external_images": null,
+        "highlightText": "",
+        "language": "english",
+        "text": "An Indian-origin student is among a group from the University of Oxford Student Union that is leading a drive towards a meat-free campus as part of wider initiatives to cut the university's greenhouse emissions. Vihan Jain from the university's Worcester College joined two fellow students to draft a motion mandating the Student Union to lobby for a ban on beef and lamb in university catering services, which was recently passed with 31 votes to 9 and 13 abstentions. As the UK's premier university, the nation looks to Oxford for leadership, but Oxford has shown a lack of leadership in addressing climate change, reads the motion. The banning of beef and lamb at university-catered events and outlets is a feasible and effective strategy to help the university meet its revised 2030 goal, it reads. The move means that the Student Union will now actively lobby the university and individual colleges to move towards meat reduction and eventual removal from campus. Responding to criticisms that the beef and lamb ban could affect the local economy, Jain told The Oxford Student' publication that alternative food offerings can be sourced from local enterprises and can therefore contribute to the local economy, but eat local' can be a deceptive piece of advice. According to an Oxford-led study published in the journal Science' this week, what we eat, how much we eat, how much is wasted, and how food is produced need to change drastically by 2050 if we want to limit the increase in global temperatures to 1.5C or 2C above pre-industrial levels. The good news is, there are many achievable ways rapidly to reduce food emissions if they are acted on quickly. These include both raising crop yields and reducing food loss and waste, but the most important is for individuals to shift towards predominantly plant-based diets, said Dr Michael Clark of the Oxford Martin School and Nuffield Department of Population Health, who is the lead author on the paper. Reducing the carbon emissions and biodiversity impact of the university's food system is one of the nine priority areas of the University's Environmental Sustainability Strategy. The Strategy has the ultimate goal of achieving net-zero carbon by 2035 and addressing the global challenges of climate change and biodiversity loss. The university is currently consulting on a draft sustainability strategy which will be approved next year and includes proposals to reduce the carbon and ecological impact of the food it supplies. These policies will be further developed in the light of the consultation response, a spokesperson for Oxford University said. The University of Cambridge has banned beef and lamb and reported a 33 percent reduction in carbon emissions per kilogram of food purchased and a 28 percent reduction in land use per kilogramme of food purchased. London School of Economics (LSE), Goldsmiths and the University of London are among other UK institutions to ban the sale of beef or lamb in campus outlets in recent years.",
+        "external_links": [],
+        "published": "2020-11-19T10:51:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:03:52.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    },
+    {
+        "entities": {
+            "persons": [],
+            "locations": [],
+            "organizations": []
+        },
+        "highlightThreadTitle": "",
+        "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.dimapurnewsdesk.in",
+            "main_image": "",
+            "site_section": "http://www.dimapurnewsdesk.in/rss",
+            "section_title": "Dimapur News Desk",
+            "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+            "country": "IN",
+            "domain_rank": null,
+            "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "performance_score": 0,
+            "site": "dimapurnewsdesk.in",
+            "site_categories": [
+                "media"
+            ],
+            "participants_count": 1,
+            "title_full": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:51:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd"
+        },
+        "author": "admin",
+        "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+        "ord_in_thread": 0,
+        "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+        "external_images": null,
+        "highlightText": "",
+        "language": "french",
+        "text": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome November 19 Share it With Friends Readers’ Favorite announces the review of the Christian – Fantasy/Sci-Fi book “Enok and the Womb of Gods” by André SkoroBogáty, currently available at http://www.amazon.com/gp/product/0648770303 . Readers’ Favorite is one of the largest book review and award contest sites on the Internet. They have earned the respect of renowned publishers like Random House, Simon & Schuster, and Harper Collins, and have received the “Best Websites for Authors” and “Honoring Excellence” awards from the Association of Independent Authors. They are also fully accredited by the BBB (A+ rating), which is a rarity among Book Review and Book Award Contest companies. Reviewed By Vincent Dublado for Readers’ Favorite\n“Enok and the Womb of Gods by André SkoroBogáty takes you into an ancient world that is dominated by gods and monsters. It combines religion and classical myths to create an original fantasy adventure. The story revolves around a slave named Enok, who serves an ancient race of serpents that dwell on a remote island. Under servitude, he educates himself so that his captors may eye him as their equals. For the first time, he meets other humans when a ship is wrecked on the island, and it stokes his desire to plan his escape from the island. Being accused of a crime he did not commit, he had nothing to lose in risking escape along with the other castaways. And in his quest to find out the truth about his past, an ancient reliquary must be opened.\n“Enok and the Womb of Gods is reminiscent of the high adventures of Greek mythology. The action and tension build up as you progress in reading. SkoroBogáty’s writing style will appeal to a large audience for his lively (and even scholarly) interpretations of ancient myths and culture. His novel brings into brilliant focus the harmony of science and theology with lyrical power and simplicity. Be prepared for some extras like annotations, glossary, exordium, and author’s notes, as if André SkoroBogáty wants to make sure that you get fully immersed. With or without these extras, you can dive straight into the story for that experience. Enok and the Womb of Gods is highly entertaining and at the same time affirms the strength of the classical past.”\nYou can learn more about André SkoroBogáty and “Enok and the Womb of Gods” at https://readersfavorite.com/book-review/enok-and-the-womb-of-gods where you can read reviews and the author’s biography, as well as connect with the author directly or through their website and social media pages.\nMedia Contact Company Name: Readers’ Favorite LLC Contact Person: Media Relations",
+        "external_links": [
+            "http://amazon.com/exec/obidos/ASIN/0648770303",
+            "https://www.readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "https://readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "http://www.amazon.com/exec/obidos/ASIN/0648770303"
+        ],
+        "published": "2020-11-19T10:51:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:01:19.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    }, ,
+    {
+        "entities": {
+            "persons": [],
+            "locations": [],
+            "organizations": []
+        },
+        "highlightThreadTitle": "",
+        "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.dimapurnewsdesk.in",
+            "main_image": "",
+            "site_section": "http://www.dimapurnewsdesk.in/rss",
+            "section_title": "Dimapur News Desk",
+            "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+            "country": "IN",
+            "domain_rank": null,
+            "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "performance_score": 0,
+            "site": "dimapurnewsdesk.in",
+            "site_categories": [
+                "media"
+            ],
+            "participants_count": 1,
+            "title_full": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:51:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd"
+        },
+        "author": "admin",
+        "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+        "ord_in_thread": 0,
+        "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+        "external_images": null,
+        "highlightText": "",
+        "language": "french",
+        "text": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome November 19 Share it With Friends Readers’ Favorite announces the review of the Christian – Fantasy/Sci-Fi book “Enok and the Womb of Gods” by André SkoroBogáty, currently available at http://www.amazon.com/gp/product/0648770303 . Readers’ Favorite is one of the largest book review and award contest sites on the Internet. They have earned the respect of renowned publishers like Random House, Simon & Schuster, and Harper Collins, and have received the “Best Websites for Authors” and “Honoring Excellence” awards from the Association of Independent Authors. They are also fully accredited by the BBB (A+ rating), which is a rarity among Book Review and Book Award Contest companies. Reviewed By Vincent Dublado for Readers’ Favorite\n“Enok and the Womb of Gods by André SkoroBogáty takes you into an ancient world that is dominated by gods and monsters. It combines religion and classical myths to create an original fantasy adventure. The story revolves around a slave named Enok, who serves an ancient race of serpents that dwell on a remote island. Under servitude, he educates himself so that his captors may eye him as their equals. For the first time, he meets other humans when a ship is wrecked on the island, and it stokes his desire to plan his escape from the island. Being accused of a crime he did not commit, he had nothing to lose in risking escape along with the other castaways. And in his quest to find out the truth about his past, an ancient reliquary must be opened.\n“Enok and the Womb of Gods is reminiscent of the high adventures of Greek mythology. The action and tension build up as you progress in reading. SkoroBogáty’s writing style will appeal to a large audience for his lively (and even scholarly) interpretations of ancient myths and culture. His novel brings into brilliant focus the harmony of science and theology with lyrical power and simplicity. Be prepared for some extras like annotations, glossary, exordium, and author’s notes, as if André SkoroBogáty wants to make sure that you get fully immersed. With or without these extras, you can dive straight into the story for that experience. Enok and the Womb of Gods is highly entertaining and at the same time affirms the strength of the classical past.”\nYou can learn more about André SkoroBogáty and “Enok and the Womb of Gods” at https://readersfavorite.com/book-review/enok-and-the-womb-of-gods where you can read reviews and the author’s biography, as well as connect with the author directly or through their website and social media pages.\nMedia Contact Company Name: Readers’ Favorite LLC Contact Person: Media Relations",
+        "external_links": [
+            "http://amazon.com/exec/obidos/ASIN/0648770303",
+            "https://www.readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "https://readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "http://www.amazon.com/exec/obidos/ASIN/0648770303"
+        ],
+        "published": "2020-11-19T10:51:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:01:19.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    },
+    {
+        "entities": {
+            "persons": [],
+            "locations": [],
+            "organizations": []
+        },
+        "highlightThreadTitle": "",
+        "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.dimapurnewsdesk.in",
+            "main_image": "",
+            "site_section": "http://www.dimapurnewsdesk.in/rss",
+            "section_title": "Dimapur News Desk",
+            "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+            "country": "IN",
+            "domain_rank": null,
+            "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "performance_score": 0,
+            "site": "dimapurnewsdesk.in",
+            "site_categories": [
+                "media"
+            ],
+            "participants_count": 1,
+            "title_full": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:51:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd"
+        },
+        "author": "admin",
+        "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+        "ord_in_thread": 0,
+        "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+        "external_images": null,
+        "highlightText": "",
+        "language": "french",
+        "text": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome November 19 Share it With Friends Readers’ Favorite announces the review of the Christian – Fantasy/Sci-Fi book “Enok and the Womb of Gods” by André SkoroBogáty, currently available at http://www.amazon.com/gp/product/0648770303 . Readers’ Favorite is one of the largest book review and award contest sites on the Internet. They have earned the respect of renowned publishers like Random House, Simon & Schuster, and Harper Collins, and have received the “Best Websites for Authors” and “Honoring Excellence” awards from the Association of Independent Authors. They are also fully accredited by the BBB (A+ rating), which is a rarity among Book Review and Book Award Contest companies. Reviewed By Vincent Dublado for Readers’ Favorite\n“Enok and the Womb of Gods by André SkoroBogáty takes you into an ancient world that is dominated by gods and monsters. It combines religion and classical myths to create an original fantasy adventure. The story revolves around a slave named Enok, who serves an ancient race of serpents that dwell on a remote island. Under servitude, he educates himself so that his captors may eye him as their equals. For the first time, he meets other humans when a ship is wrecked on the island, and it stokes his desire to plan his escape from the island. Being accused of a crime he did not commit, he had nothing to lose in risking escape along with the other castaways. And in his quest to find out the truth about his past, an ancient reliquary must be opened.\n“Enok and the Womb of Gods is reminiscent of the high adventures of Greek mythology. The action and tension build up as you progress in reading. SkoroBogáty’s writing style will appeal to a large audience for his lively (and even scholarly) interpretations of ancient myths and culture. His novel brings into brilliant focus the harmony of science and theology with lyrical power and simplicity. Be prepared for some extras like annotations, glossary, exordium, and author’s notes, as if André SkoroBogáty wants to make sure that you get fully immersed. With or without these extras, you can dive straight into the story for that experience. Enok and the Womb of Gods is highly entertaining and at the same time affirms the strength of the classical past.”\nYou can learn more about André SkoroBogáty and “Enok and the Womb of Gods” at https://readersfavorite.com/book-review/enok-and-the-womb-of-gods where you can read reviews and the author’s biography, as well as connect with the author directly or through their website and social media pages.\nMedia Contact Company Name: Readers’ Favorite LLC Contact Person: Media Relations",
+        "external_links": [
+            "http://amazon.com/exec/obidos/ASIN/0648770303",
+            "https://www.readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "https://readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "http://www.amazon.com/exec/obidos/ASIN/0648770303"
+        ],
+        "published": "2020-11-19T10:51:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:01:19.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    }, ,
+    {
+        "entities": {
+            "persons": [],
+            "locations": [],
+            "organizations": []
+        },
+        "highlightThreadTitle": "",
+        "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.dimapurnewsdesk.in",
+            "main_image": "",
+            "site_section": "http://www.dimapurnewsdesk.in/rss",
+            "section_title": "Dimapur News Desk",
+            "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+            "country": "IN",
+            "domain_rank": null,
+            "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "performance_score": 0,
+            "site": "dimapurnewsdesk.in",
+            "site_categories": [
+                "media"
+            ],
+            "participants_count": 1,
+            "title_full": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:51:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd"
+        },
+        "author": "admin",
+        "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+        "ord_in_thread": 0,
+        "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+        "external_images": null,
+        "highlightText": "",
+        "language": "french",
+        "text": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome November 19 Share it With Friends Readers’ Favorite announces the review of the Christian – Fantasy/Sci-Fi book “Enok and the Womb of Gods” by André SkoroBogáty, currently available at http://www.amazon.com/gp/product/0648770303 . Readers’ Favorite is one of the largest book review and award contest sites on the Internet. They have earned the respect of renowned publishers like Random House, Simon & Schuster, and Harper Collins, and have received the “Best Websites for Authors” and “Honoring Excellence” awards from the Association of Independent Authors. They are also fully accredited by the BBB (A+ rating), which is a rarity among Book Review and Book Award Contest companies. Reviewed By Vincent Dublado for Readers’ Favorite\n“Enok and the Womb of Gods by André SkoroBogáty takes you into an ancient world that is dominated by gods and monsters. It combines religion and classical myths to create an original fantasy adventure. The story revolves around a slave named Enok, who serves an ancient race of serpents that dwell on a remote island. Under servitude, he educates himself so that his captors may eye him as their equals. For the first time, he meets other humans when a ship is wrecked on the island, and it stokes his desire to plan his escape from the island. Being accused of a crime he did not commit, he had nothing to lose in risking escape along with the other castaways. And in his quest to find out the truth about his past, an ancient reliquary must be opened.\n“Enok and the Womb of Gods is reminiscent of the high adventures of Greek mythology. The action and tension build up as you progress in reading. SkoroBogáty’s writing style will appeal to a large audience for his lively (and even scholarly) interpretations of ancient myths and culture. His novel brings into brilliant focus the harmony of science and theology with lyrical power and simplicity. Be prepared for some extras like annotations, glossary, exordium, and author’s notes, as if André SkoroBogáty wants to make sure that you get fully immersed. With or without these extras, you can dive straight into the story for that experience. Enok and the Womb of Gods is highly entertaining and at the same time affirms the strength of the classical past.”\nYou can learn more about André SkoroBogáty and “Enok and the Womb of Gods” at https://readersfavorite.com/book-review/enok-and-the-womb-of-gods where you can read reviews and the author’s biography, as well as connect with the author directly or through their website and social media pages.\nMedia Contact Company Name: Readers’ Favorite LLC Contact Person: Media Relations",
+        "external_links": [
+            "http://amazon.com/exec/obidos/ASIN/0648770303",
+            "https://www.readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "https://readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "http://www.amazon.com/exec/obidos/ASIN/0648770303"
+        ],
+        "published": "2020-11-19T10:51:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:01:19.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    }, ,
+    {
+        "entities": {
+            "persons": [],
+            "locations": [],
+            "organizations": []
+        },
+        "highlightThreadTitle": "",
+        "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.dimapurnewsdesk.in",
+            "main_image": "",
+            "site_section": "http://www.dimapurnewsdesk.in/rss",
+            "section_title": "Dimapur News Desk",
+            "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+            "country": "IN",
+            "domain_rank": null,
+            "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "performance_score": 0,
+            "site": "dimapurnewsdesk.in",
+            "site_categories": [
+                "media"
+            ],
+            "participants_count": 1,
+            "title_full": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:51:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd"
+        },
+        "author": "admin",
+        "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+        "ord_in_thread": 0,
+        "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+        "external_images": null,
+        "highlightText": "",
+        "language": "french",
+        "text": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome November 19 Share it With Friends Readers’ Favorite announces the review of the Christian – Fantasy/Sci-Fi book “Enok and the Womb of Gods” by André SkoroBogáty, currently available at http://www.amazon.com/gp/product/0648770303 . Readers’ Favorite is one of the largest book review and award contest sites on the Internet. They have earned the respect of renowned publishers like Random House, Simon & Schuster, and Harper Collins, and have received the “Best Websites for Authors” and “Honoring Excellence” awards from the Association of Independent Authors. They are also fully accredited by the BBB (A+ rating), which is a rarity among Book Review and Book Award Contest companies. Reviewed By Vincent Dublado for Readers’ Favorite\n“Enok and the Womb of Gods by André SkoroBogáty takes you into an ancient world that is dominated by gods and monsters. It combines religion and classical myths to create an original fantasy adventure. The story revolves around a slave named Enok, who serves an ancient race of serpents that dwell on a remote island. Under servitude, he educates himself so that his captors may eye him as their equals. For the first time, he meets other humans when a ship is wrecked on the island, and it stokes his desire to plan his escape from the island. Being accused of a crime he did not commit, he had nothing to lose in risking escape along with the other castaways. And in his quest to find out the truth about his past, an ancient reliquary must be opened.\n“Enok and the Womb of Gods is reminiscent of the high adventures of Greek mythology. The action and tension build up as you progress in reading. SkoroBogáty’s writing style will appeal to a large audience for his lively (and even scholarly) interpretations of ancient myths and culture. His novel brings into brilliant focus the harmony of science and theology with lyrical power and simplicity. Be prepared for some extras like annotations, glossary, exordium, and author’s notes, as if André SkoroBogáty wants to make sure that you get fully immersed. With or without these extras, you can dive straight into the story for that experience. Enok and the Womb of Gods is highly entertaining and at the same time affirms the strength of the classical past.”\nYou can learn more about André SkoroBogáty and “Enok and the Womb of Gods” at https://readersfavorite.com/book-review/enok-and-the-womb-of-gods where you can read reviews and the author’s biography, as well as connect with the author directly or through their website and social media pages.\nMedia Contact Company Name: Readers’ Favorite LLC Contact Person: Media Relations",
+        "external_links": [
+            "http://amazon.com/exec/obidos/ASIN/0648770303",
+            "https://www.readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "https://readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "http://www.amazon.com/exec/obidos/ASIN/0648770303"
+        ],
+        "published": "2020-11-19T10:51:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:01:19.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    }, ,
+    {
+        "entities": {
+            "persons": [],
+            "locations": [],
+            "organizations": []
+        },
+        "highlightThreadTitle": "",
+        "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.dimapurnewsdesk.in",
+            "main_image": "",
+            "site_section": "http://www.dimapurnewsdesk.in/rss",
+            "section_title": "Dimapur News Desk",
+            "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+            "country": "IN",
+            "domain_rank": null,
+            "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "performance_score": 0,
+            "site": "dimapurnewsdesk.in",
+            "site_categories": [
+                "media"
+            ],
+            "participants_count": 1,
+            "title_full": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:51:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd"
+        },
+        "author": "admin",
+        "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+        "ord_in_thread": 0,
+        "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+        "external_images": null,
+        "highlightText": "",
+        "language": "french",
+        "text": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome November 19 Share it With Friends Readers’ Favorite announces the review of the Christian – Fantasy/Sci-Fi book “Enok and the Womb of Gods” by André SkoroBogáty, currently available at http://www.amazon.com/gp/product/0648770303 . Readers’ Favorite is one of the largest book review and award contest sites on the Internet. They have earned the respect of renowned publishers like Random House, Simon & Schuster, and Harper Collins, and have received the “Best Websites for Authors” and “Honoring Excellence” awards from the Association of Independent Authors. They are also fully accredited by the BBB (A+ rating), which is a rarity among Book Review and Book Award Contest companies. Reviewed By Vincent Dublado for Readers’ Favorite\n“Enok and the Womb of Gods by André SkoroBogáty takes you into an ancient world that is dominated by gods and monsters. It combines religion and classical myths to create an original fantasy adventure. The story revolves around a slave named Enok, who serves an ancient race of serpents that dwell on a remote island. Under servitude, he educates himself so that his captors may eye him as their equals. For the first time, he meets other humans when a ship is wrecked on the island, and it stokes his desire to plan his escape from the island. Being accused of a crime he did not commit, he had nothing to lose in risking escape along with the other castaways. And in his quest to find out the truth about his past, an ancient reliquary must be opened.\n“Enok and the Womb of Gods is reminiscent of the high adventures of Greek mythology. The action and tension build up as you progress in reading. SkoroBogáty’s writing style will appeal to a large audience for his lively (and even scholarly) interpretations of ancient myths and culture. His novel brings into brilliant focus the harmony of science and theology with lyrical power and simplicity. Be prepared for some extras like annotations, glossary, exordium, and author’s notes, as if André SkoroBogáty wants to make sure that you get fully immersed. With or without these extras, you can dive straight into the story for that experience. Enok and the Womb of Gods is highly entertaining and at the same time affirms the strength of the classical past.”\nYou can learn more about André SkoroBogáty and “Enok and the Womb of Gods” at https://readersfavorite.com/book-review/enok-and-the-womb-of-gods where you can read reviews and the author’s biography, as well as connect with the author directly or through their website and social media pages.\nMedia Contact Company Name: Readers’ Favorite LLC Contact Person: Media Relations",
+        "external_links": [
+            "http://amazon.com/exec/obidos/ASIN/0648770303",
+            "https://www.readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "https://readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "http://www.amazon.com/exec/obidos/ASIN/0648770303"
+        ],
+        "published": "2020-11-19T10:51:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:01:19.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    }, ,
+    {
+        "entities": {
+            "persons": [],
+            "locations": [],
+            "organizations": []
+        },
+        "highlightThreadTitle": "",
+        "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd",
+        "thread": {
+            "social": {
+                "gplus": {
+                    "shares": 0
+                },
+                "pinterest": {
+                    "shares": 0
+                },
+                "vk": {
+                    "shares": 0
+                },
+                "linkedin": {
+                    "shares": 0
+                },
+                "facebook": {
+                    "likes": 0,
+                    "comments": 0,
+                    "shares": 0
+                },
+                "stumbledupon": {
+                    "shares": 0
+                }
+            },
+            "site_full": "www.dimapurnewsdesk.in",
+            "main_image": "",
+            "site_section": "http://www.dimapurnewsdesk.in/rss",
+            "section_title": "Dimapur News Desk",
+            "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+            "country": "IN",
+            "domain_rank": null,
+            "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "performance_score": 0,
+            "site": "dimapurnewsdesk.in",
+            "site_categories": [
+                "media"
+            ],
+            "participants_count": 1,
+            "title_full": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+            "spam_score": 0,
+            "site_type": "news",
+            "published": "2020-11-19T10:51:00.000+02:00",
+            "replies_count": 0,
+            "uuid": "2a59fc3112792c283a2c8aeb81184579557c51bd"
+        },
+        "author": "admin",
+        "url": "http://www.dimapurnewsdesk.in/story/78017/authors-new-book-enok-and-the-womb-of-gods-receives-a-warm-literary-welcome.html",
+        "ord_in_thread": 0,
+        "title": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome",
+        "external_images": null,
+        "highlightText": "",
+        "language": "french",
+        "text": "Author’s new book “Enok and the Womb of Gods” receives a warm literary welcome November 19 Share it With Friends Readers’ Favorite announces the review of the Christian – Fantasy/Sci-Fi book “Enok and the Womb of Gods” by André SkoroBogáty, currently available at http://www.amazon.com/gp/product/0648770303 . Readers’ Favorite is one of the largest book review and award contest sites on the Internet. They have earned the respect of renowned publishers like Random House, Simon & Schuster, and Harper Collins, and have received the “Best Websites for Authors” and “Honoring Excellence” awards from the Association of Independent Authors. They are also fully accredited by the BBB (A+ rating), which is a rarity among Book Review and Book Award Contest companies. Reviewed By Vincent Dublado for Readers’ Favorite\n“Enok and the Womb of Gods by André SkoroBogáty takes you into an ancient world that is dominated by gods and monsters. It combines religion and classical myths to create an original fantasy adventure. The story revolves around a slave named Enok, who serves an ancient race of serpents that dwell on a remote island. Under servitude, he educates himself so that his captors may eye him as their equals. For the first time, he meets other humans when a ship is wrecked on the island, and it stokes his desire to plan his escape from the island. Being accused of a crime he did not commit, he had nothing to lose in risking escape along with the other castaways. And in his quest to find out the truth about his past, an ancient reliquary must be opened.\n“Enok and the Womb of Gods is reminiscent of the high adventures of Greek mythology. The action and tension build up as you progress in reading. SkoroBogáty’s writing style will appeal to a large audience for his lively (and even scholarly) interpretations of ancient myths and culture. His novel brings into brilliant focus the harmony of science and theology with lyrical power and simplicity. Be prepared for some extras like annotations, glossary, exordium, and author’s notes, as if André SkoroBogáty wants to make sure that you get fully immersed. With or without these extras, you can dive straight into the story for that experience. Enok and the Womb of Gods is highly entertaining and at the same time affirms the strength of the classical past.”\nYou can learn more about André SkoroBogáty and “Enok and the Womb of Gods” at https://readersfavorite.com/book-review/enok-and-the-womb-of-gods where you can read reviews and the author’s biography, as well as connect with the author directly or through their website and social media pages.\nMedia Contact Company Name: Readers’ Favorite LLC Contact Person: Media Relations",
+        "external_links": [
+            "http://amazon.com/exec/obidos/ASIN/0648770303",
+            "https://www.readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "https://readersfavorite.com/book-review/enok-and-the-womb-of-gods",
+            "http://www.amazon.com/exec/obidos/ASIN/0648770303"
+        ],
+        "published": "2020-11-19T10:51:00.000+02:00",
+        "parent_url": null,
+        "crawled": "2020-11-19T11:01:19.000+02:00",
+        "highlightTitle": "",
+        "rating": null
+    }
+];
