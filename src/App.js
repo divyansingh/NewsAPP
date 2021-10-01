@@ -1,8 +1,6 @@
 import { useState } from "react";
 import Navbar from "./components/Navbar";
-
 import News from "./components/News";
-
 const App = () => {
   const [searchedValue, setSearchedValue] = useState('');
   const [sortedValue, setSortedValue] = useState('crawled');
@@ -25,5 +23,4 @@ const App = () => {
     </>
   );
 }
-
 export default App;
